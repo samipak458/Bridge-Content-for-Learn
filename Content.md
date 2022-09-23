@@ -16,7 +16,7 @@
 ### Our Proposed Module Structure 1
 
 1) Introduction
-2) What is Microsoft Cloud? 
+2) Microsoft Cloud for Healthcare
 3) Enhance patient engagement
 4) Empower health team collaboration
 5) Improve clinical and operational insights
