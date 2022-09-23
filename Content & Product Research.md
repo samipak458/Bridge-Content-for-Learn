@@ -4,3 +4,9 @@ In the first month, our team go through each module of [Get started with Microso
 
 ## About Unit
 We decided to add unit ***Microsoft Cloud for Healthcare*** in which we briefly describe Microsoft Cloud then desribe Microsoft Cloud for Healthcare and it's components and features. 
+
+<div align="center">
+  OR
+</div> 
+
+We decided to replace ***Introduction*** unit and add unit ***Microsoft Cloud Healthcare Service*** or ***What is Microsoft Cloud Healthcare Service?*** in which we briefly describe Microsoft Cloud then desribe Microsoft Cloud for Healthcare and it's components and features. 
