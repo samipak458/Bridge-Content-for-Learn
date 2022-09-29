@@ -13,7 +13,7 @@
 7) Check knowledge
 8) Summary
 
-### Our Proposed Module Structure:
+### Our Proposed Module Structure
 
 1) Microsoft Cloud for Healthcare
 2) Introduction to Microsoft Cloud Healthcare Service?
